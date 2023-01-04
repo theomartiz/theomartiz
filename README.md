@@ -2,7 +2,7 @@
 
 
 ## :sassy_man:  About me
-- :rocket: CTO and co-founder at <a target="_blank" href="https://www.noteece.com">Noteece</a>, a User Generated Content solution
+- :rocket: Co-founder at <a target="_blank" href="https://www.noteece.com">Noteece</a>, a User Generated Content solution
 - :school: I am a french software engineer from ISEP (Paris)
 - :technologist: I love imaging new innovative solutions
 - :nerd_face: Always `learning new things`
